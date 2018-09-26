@@ -1,0 +1,21 @@
+.tabs{
+    display: flex;
+    justify-content: space-evenly;
+    width: 90%;
+    margin: 20px auto;
+}
+a{
+    text-decoration: none;
+}
+
+.tabs a{
+    display: block;
+    background-color: dodgerblue;
+    color: white;
+    width:100%;
+    text-align: center;
+    height:40px;
+    line-height: 40px;
+    margin: 0 5px;
+
+}
